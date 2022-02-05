@@ -1,6 +1,6 @@
 # Hi, I'm ZXY-CC-3ag13
 
-<img alt="Profile Picture" align="right" src="https://github.com/ZXY-CC-3ag13/ZXY-CC-3ag13/blob/main/Images/ProfileT.png" width="216" height="216">
+<img alt="Profile Picture" align="right" src="https://github.com/ZXY-CC-3ag13/ZXY-CC-3ag13/blob/main/Images/Profile.png" width="216" height="216">
 
 ## Proficient Tools
 
