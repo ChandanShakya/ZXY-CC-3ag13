@@ -11,4 +11,4 @@
 
 ### A Year of Me
 
-<img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/151e8141-5cb8-45de-98b9-d2169ef1c745.svg" />
+<img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/151e8141-5cb8-45de-98b9-d2169ef1c745.svg" width="900vw"/>
