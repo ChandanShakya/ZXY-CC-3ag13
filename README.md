@@ -7,4 +7,8 @@
 
 ### Coding time over the week
 
-<a href="https://ZXY-CC-3ag13.github.io"><img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/1ac7008a-5634-403f-9d93-91616e52d483.png" /></a>
+<img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/51b82569-8520-47a7-811d-7a3fbcfe9564.svg" width="900vw"/>
+
+### A Year of Me
+
+<img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/151e8141-5cb8-45de-98b9-d2169ef1c745.svg" />
