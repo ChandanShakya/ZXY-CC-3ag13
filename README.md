@@ -7,8 +7,8 @@
 
 ### Coding time over the week
 
-<img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/51b82569-8520-47a7-811d-7a3fbcfe9564.svg" width="900vw"/>
+<img src="https://wakatime.com/share/@ChandanShakya/9d057187-f3c0-4c34-9e9f-5f80219d9356.svg" width="900vw"/>
 
 ### A Year of Me
 
-<img src="https://wakatime.com/share/@432ee6a4-715d-445b-a3e9-f5a37ed10d1f/151e8141-5cb8-45de-98b9-d2169ef1c745.svg" width="900vw"/>
+<img src="https://wakatime.com/share/@ChandanShakya/ce30396b-c90d-45a5-bec7-f7b33e7435df.svg" width="900vw"/>
