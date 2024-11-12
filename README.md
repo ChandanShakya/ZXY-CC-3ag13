@@ -131,9 +131,6 @@
         <a href="https://www.facebook.com/Chandan.UwU/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
         </a>
-        <a href="https://t.me/ChandanUwU" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-        </a>
         <a href="https://stackoverflow.com/users/18991653/zxy-cc-3ag13" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
         </a>
